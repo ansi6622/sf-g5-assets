@@ -2,17 +2,17 @@
 
 ### Stand Up 9 - 9:10
 
-### 9:15  1 Pomodoro Introduce Exercise / Review Exercise
+### 9:15 Pomodoro One (25 min) - Introduce Exercise / Review Exercise
 
 * Briefly outline goals for the exercise
 
-### 9:30 - 2 Pomodoro Solo Work
+### 9:30 - Pomodoro Two (50 min) - Solo Work
 
 * Introduce the trouble board
 
 ### 10 min break
 
-### 10:40 - 2 Pomodoro Workshopping
+### 10:40 - Pomodoro Three (50 min) Workshopping
 
 * Students can work solo or in workshop
 * Workshops are led by students
